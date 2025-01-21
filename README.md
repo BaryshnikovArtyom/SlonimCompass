@@ -1,0 +1,2 @@
+# SlonimCompass
+Проект ТРПО
